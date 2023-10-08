@@ -1,5 +1,5 @@
 # Preview
-*I'm sorry for the bad quality*
+*In this game, your goal is to guess a randomly chosen number between 1 and 100 in 7 attempts.*
 ![](https://github.com/caglayagmuricerr/PythonPrograms/blob/master/number-guessing-game/images/number-guesssing-game.gif)
 
 ## All outcomes
